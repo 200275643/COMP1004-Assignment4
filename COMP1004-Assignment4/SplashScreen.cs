@@ -1,4 +1,7 @@
-﻿
+﻿// RAD-Assignment4, Chandra Reddy Gundam #200275643, 01-12-2016. 
+// This program select product table from Microsoft Azure and put products list to Data Grid,
+// user can choose any product, save and read from files
+// final form show all data and calculate total cost
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
